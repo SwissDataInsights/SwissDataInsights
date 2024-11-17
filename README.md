@@ -39,17 +39,16 @@ Welcome to **SwissDataInsights**, where we harness the power of data science, ma
 ### 🎯 **Our Expertise**
 
 - **Programming Languages:** Python (Pandas, NumPy, PyTorch, Scikit-learn), SQL.
-- **Tools and Platforms:** AWS, Git, Jupyter Notebook, and Docker.
+- **Tools and Platforms:** AWS, Git, Jupyter Notebook.
 - **Specializations:** Predictive modeling, time series analysis, and deep learning.
 - **Finance-Specific Knowledge:** Algorithmic trading, technical indicators, financial data processing, credit risk analysis, portfolio optimization, and fraud detection.
-- **Visualization Tools:** Proficiency in creating interactive dashboards using tools like Tableau, Power BI, and Python libraries (e.g., Plotly, Dash).
+- **Visualization Tools:** Proficiency in creating interactive dashboards using tools like Power BI, and Python libraries (e.g., Plotly, Dash).
 
 ---
 
 ### 📫 **Get in Touch**
 
 - **Email:** [office@swissdatainsights.ch](mailto:office@swissdatainsights.ch)
-- **Website:** [SwissDataInsights](https://www.swissdatainsights.ch)
 - **GitHub:** [SwissDataInsights](https://github.com/SwissDataInsights)
 
 ---
